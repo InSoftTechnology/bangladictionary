@@ -1,0 +1,6 @@
+{
+  "name": "Bangla Dictionary",
+  "description": "An offline-first Bangla-English and English-Bangla dictionary with smart search suggestions, Text-to-Speech pronunciation, word approvals, history, favorites, and a developer seeder dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
